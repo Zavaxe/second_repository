@@ -279,3 +279,15 @@ a {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.first-heading {
+  margin-bottom: 25px;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.first-description {
+  margin-bottom: 30px;
+  font-size: 16px;
+  line-height: 25px;
+}

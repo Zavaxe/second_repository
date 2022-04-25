@@ -1,0 +1,32 @@
+.first-section-container {
+    padding-top: 110px;
+    padding-bottom: 130px;
+    outline: 1px solid red;
+}
+
+.first-description {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+.first-btn {
+  margin-bottom: 10px;
+}
+
+.first-ssl {
+	font-size: 11px;
+	line-height: 21px;
+}
+
+.btn {
+  padding-left: 81px;
+  padding-top: 31px;
+  padding-right: 80px;
+  padding-bottom: 33px;
+  text-align: center;
+  background-color: #fff;
+  border: 3px solid #2f1ce4;
+  font-size: 18px;
+  color: #2f1ce4;
+}
